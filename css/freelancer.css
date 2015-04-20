@@ -123,6 +123,11 @@ header .intro-text .skills {
     }
 }
 
+.custom-search-form{
+    margin-top:10px;
+    float-left;
+}
+
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
